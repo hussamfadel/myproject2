@@ -1,3 +1,3 @@
 # myproject2
 
-# update read me file from Forked device to test
+# update readme file from Forked device to test
